@@ -6,6 +6,7 @@ const FormComponent1 = () => {
     age: "",
     phone: "",
     email: "",
+    dob:""
   });
 
   const [formEntries, setFormEntries] = useState([]);
